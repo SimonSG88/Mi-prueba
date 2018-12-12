@@ -1,0 +1,2 @@
+Esto es el codigo del proyecto simulare un proyeccto en el que lo que hare sera descargarmelo del git y una vez descargado modificar algo y luego subirlo a mi rama.(sera una rama nueva) una vez este en la rama nueva lo mergeare con la rama principal
+.
